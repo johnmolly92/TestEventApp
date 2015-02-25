@@ -7,4 +7,14 @@
     <string name="title_activity_register">Register</string>
     <string name="title_activity_home">Home</string>
 
+    <!-- string ids for registration.xml -->
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="submit">Submit</string>
+
+    <!-- string ids for home.xml -->
+    <string name="post_comment">Post Comment</string>
+    <string name="view_events_title">Recent Events</string>
+    <string name="passwords_not_same">Passwords don\'t match</string>
+
 </resources>

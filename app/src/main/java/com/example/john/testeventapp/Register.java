@@ -40,7 +40,8 @@ public class Register extends ActionBarActivity implements OnClickListener{
     //testing on your device
     //put your local ip instead,  on windows, run CMD > ipconfig
     //or in mac's terminal type ifconfig and look for the ip under en0 or en1
-    private static final String LOGIN_URL = "http://136.206.236.53:80/webservice/register.php";
+    private static final String LOGIN_URL = "http://192.168.1.14:80/webservice/register.php";
+    //private static final String LOGIN_URL = "http://136.206.236.53:80/webservice/register.php";
 
     //testing on Emulator:
     //private static final String LOGIN_URL = "http://10.0.2.2:1234/webservice/register.php";
